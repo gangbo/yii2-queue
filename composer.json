@@ -1,0 +1,21 @@
+{
+    "name": "gangbo/yii2-queue",
+    "description": "simple yii2 queue",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "gangbo",
+            "email": "daigangbo@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "gangbo\\": ""
+        }
+    }
+}
